@@ -17,7 +17,7 @@ Hi there! I'm Reza Vazifedoust, a junior web developer on an exciting journey to
 
 📫 Feel free to reach out to me at rezavazifedost@gmail.com
 🌐 Connect with me on https://www.linkedin.com/in/reza-vazifedoust-b72b05271
-🔗 Check out my GitHub repositories at [GitHub](https://github.com/yourusername).
+🔗 Check out my GitHub repositories at https://github.com/rssvazif/reza-vazifedost111.git
 
 ## Fun Fact
 
