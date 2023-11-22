@@ -1,14 +1,15 @@
 # About Me
 
-Hi there! I'm Reza Vazifedoust, a junior web developer on an exciting journey to explore the vast world of web development.
+Hi there! I'm Reza Vazifedoust, a junior Python developer on an exciting journey to explore the vast world of science.
 
 ## My Journey
 
-- 🌱 I'm learning python and web development fundamentals.
+- 🌱 I'm learning python .
 - 💼 I'm looking to contribute to open-source projects and build my portfolio.
-- 🚀 My goal is to become a Back_end developer and create awesome web applications.
+- 🚀 My goal is to become a Back_end developer.
 
 ## Skills
+- Python
 - C++
 - Git and GitHub
 - Problem Solving
