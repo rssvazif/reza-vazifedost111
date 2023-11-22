@@ -11,7 +11,6 @@ Hi there! I'm Reza Vazifedoust, a junior Python developer on an exciting journey
 ## Skills
 - Python
 - C++
-- Git and GitHub
 - Problem Solving
 
 ## Get in Touch
